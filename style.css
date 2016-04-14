@@ -1,0 +1,52 @@
+/* index.html css */
+    html {
+      background-color: white;
+    }
+
+    body {
+      text-align: left;
+      float: left;
+      display: flex;
+    }
+
+    #info_div {
+      flex-basis: 70%;
+      text-align: left;
+      float: left;
+      padding-left: 55px;
+      padding-top: 170px;
+    }
+
+    #blank_div {
+      flex-basis: 30%;
+      float: right;
+      padding-top: 100px;
+      padding-left: 20px;
+      padding-right: 65px;
+    }
+
+    .info {
+
+    }
+
+    #blank {
+      border: none;
+      width: 200%;
+      height: 400px;
+    }
+
+    #name {
+
+    }
+
+/* about.html css */
+    #statement {
+      padding-top: 80px;
+    }
+
+/* mentors.html css */
+    #mentors {
+      align-items: center;
+      display: block;
+      padding-top: 60px;
+    }
